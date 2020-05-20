@@ -35,9 +35,9 @@ a:hover{
 }
 
 header#cabecalho img#icone{
-    position: absolute;
-    left: 750px;
-    top: 70px;
+    position: relative;
+    left: 730px;
+    top: -48px;
 }
 
 header#cabecalho{
